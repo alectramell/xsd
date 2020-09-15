@@ -1,2 +1,2 @@
 # XSD (Shell)
-## Tie MacOS Shutdown
+## Timed MacOS Shutdown
